@@ -1,0 +1,10 @@
+{
+  "include": [
+    "fitfusion-ai"
+  ],
+  "extraPaths": [
+    "fitfusion-ai"
+  ],
+  "venvPath": "fitfusion-ai",
+  "venv": "venv"
+}
