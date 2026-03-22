@@ -40,57 +40,58 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD7q4L__gYlJOntnhRsJ1clApb0LxNHg94',
-    appId: '1:1001958185957:web:7dd9b47b37ab345b662d0c',
-    messagingSenderId: '1001958185957',
-    projectId: 'fitfusion-backend-52ef5',
-    authDomain: 'fitfusion-backend-52ef5.firebaseapp.com',
-    databaseURL: 'https://fitfusion-backend-52ef5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'fitfusion-backend-52ef5.firebasestorage.app',
-    measurementId: 'G-M5CVJ6NDWQ',
-  );
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBJBElIVA0rfoFNQwPbcmzgYB3Yka8NICk',
-    appId: '1:1001958185957:android:b2dd1ed3805deea6662d0c',
-    messagingSenderId: '1001958185957',
-    projectId: 'fitfusion-backend-52ef5',
-    databaseURL: 'https://fitfusion-backend-52ef5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'fitfusion-backend-52ef5.firebasestorage.app',
-  );
 
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyD7q4L__gYlJOntnhRsJ1clApb0LxNHg94',
-    appId: '1:1001958185957:web:78569641dcf53086662d0c',
-    messagingSenderId: '1001958185957',
-    projectId: 'fitfusion-backend-52ef5',
-    authDomain: 'fitfusion-backend-52ef5.firebaseapp.com',
-    databaseURL: 'https://fitfusion-backend-52ef5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'fitfusion-backend-52ef5.firebasestorage.app',
-    measurementId: 'G-JTW4WS4ZLL',
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDGycUPg91uiImJNp3v1Aof6rIufazFABU',
-    appId: '1:1001958185957:ios:f33c8c98907fb02a662d0c',
-    messagingSenderId: '1001958185957',
-    projectId: 'fitfusion-backend-52ef5',
-    databaseURL: 'https://fitfusion-backend-52ef5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'fitfusion-backend-52ef5.firebasestorage.app',
-    iosClientId: '1001958185957-nuc790me9kfs6rooenmoqn70smi2prd0.apps.googleusercontent.com',
-    iosBundleId: 'com.example.fitfusion',
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDGycUPg91uiImJNp3v1Aof6rIufazFABU',
-    appId: '1:1001958185957:ios:f33c8c98907fb02a662d0c',
-    messagingSenderId: '1001958185957',
-    projectId: 'fitfusion-backend-52ef5',
-    databaseURL: 'https://fitfusion-backend-52ef5-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'fitfusion-backend-52ef5.firebasestorage.app',
-    iosClientId: '1001958185957-nuc790me9kfs6rooenmoqn70smi2prd0.apps.googleusercontent.com',
-    iosBundleId: 'com.example.fitfusion',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
+   static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
+  );   
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
+  );
 }
