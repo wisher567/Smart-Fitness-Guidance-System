@@ -8,7 +8,7 @@ Group 26 | PUSL 2021 Computing Group Project | NSBM / Plymouth University
 
 You need these files that are NOT included in the source code:
 
-### 1. serviceAccountKey.json
+### serviceAccountKey.json
 Download from Firebase Console:
 ```
 Firebase Console
@@ -18,9 +18,6 @@ Firebase Console
 → Save as serviceAccountKey.json
 → Place it inside fitfusion-backend/ folder
 ```
-
-### 2. .env files
-Create `.env` file in each folder (see below for values)
 
 ---
 
